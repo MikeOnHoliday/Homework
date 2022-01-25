@@ -1,0 +1,16 @@
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.exe
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.deps.json
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.json
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.runtimeconfig.dev.json
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.dll
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\ref\HelloWorld.dll
+C:\pluralsight\Homework\HelloWorld\bin\Debug\net5.0\HelloWorld.pdb
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.AssemblyReference.cache
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfoInputs.cache
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.AssemblyInfo.cs
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.csproj.CoreCompileInputs.cache
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.dll
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\ref\HelloWorld.dll
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.pdb
+C:\pluralsight\Homework\HelloWorld\obj\Debug\net5.0\HelloWorld.genruntimeconfig.cache
